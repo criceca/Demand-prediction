@@ -1,4 +1,5 @@
-﻿2014-01-06,SKU-001,Arroz_500g,754.8,ok
+fecha,sku,producto,unidades_vendidas,nota
+2014-01-06,SKU-001,Arroz_500g,754.8,ok
 2014-01-06,SKU-002,Aceite_1L,-13.9,negativo
 2014-01-06,SKU-003,Azucar_1kg,749.4,ok
 2014-01-06,SKU-004,Leche_UHT_1L,missing_bloque,
